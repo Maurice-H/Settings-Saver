@@ -1,17 +1,17 @@
 # Settings-Saver
-Programm to save all your game settings
+Program to save all your game settings
 
 # Architecture ideas?
-Electron.net app with Frontend and Backend seperation
-<br>Frontend: Vue with Typescript
+Electron.NET app with frontend and backend separation
+<br>Frontend: Vue with TypeScript
 <br>Backend: C#
 
-# Musst implementations
+# Must-have implementations
 User input for saving/adding new games/new game settings
 <br>Store locally
-<br>load settings
+<br>Load settings
 
-# Later possible implementation
+# Later possible implementations
 Community page to share game settings
-<br>Cloud sny with user
-<br>Automaticly game settings import and export
+<br>Cloud sync with user
+<br>Automatic game settings import and export
